@@ -1,5 +1,5 @@
-# ShopeeWorkshops
-Contains Jupyter Notebooks of the shopee data analysis and python chatbot tutorial on 22th Sept 2019 and 6th Oct in Shopee Singapore I'm the Best Coder
+# ShopeeDataAnalysisTutorial
+Contains Jupyter Notebooks of the shopee data analysis tutorial on 22th Sept 2019 in Shopee Singapore I'm the Best Coder
 
 # Getting Started
 1. Git clone this repository using Visual Studio/Visual Studio Code.

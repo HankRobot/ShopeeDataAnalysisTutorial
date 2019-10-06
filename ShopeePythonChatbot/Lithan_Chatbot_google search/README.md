@@ -8,7 +8,8 @@ Build a simple ChatBot with Python that uses Google Search as its brain. The app
 
 Clone the repo using command line and `cd` into the app.
 
-```
+
+
 pip install -r requirements.txt
 ```
 

@@ -1,8 +1,7 @@
-# ShopeePythonChatbottutorial
-Contains Jupyter Notebooks of the shopee python chatbot tutorial on 6th Oct 2019 in Shopee Singapore I'm the Best Coder
-
-# Getting Started
-1. 
-
-# Contribute
-1. 
+	Steps before you start
+    	Clone this Project 
+        Save the project
+        open "lithan_am_chatbot_session.ipynb" 
+        	Read the steps from the ipynb( Interactive Python Note Book ) file and follow the steps accordingly 
+        open "lithan_pm_chatbot_session.ipynb" 
+        	Read the steps from the ipynb( Interactive Python Note Book ) file and follow the steps accordingly 
